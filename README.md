@@ -1,2 +1,2 @@
-# dicee-challenge
-dicee
+# Dicee
+random

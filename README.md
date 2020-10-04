@@ -1,2 +1,2 @@
 # Dicee
-random
+Dicee game in legacy js
